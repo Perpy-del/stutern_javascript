@@ -16,9 +16,13 @@ Name 5 things Javascript can do.
 
 Answer:
     - It can be used to build robust web applications
+    
     - It can be used for client side validation (authentication and authorization).
+    
     - It can be used to create forms that respond to user inputs without accessing the server.
+    
     - It can be used to create webservers
+    
     - It can be used for mobile applications and to create games. 
     ... Amongst other things.
 
@@ -38,11 +42,11 @@ You log to the console using the Javascript console method [console.log(message)
 List the tech fields that use JavaScript, for example FrontEnd
 
 Answer:
-    - Frontend
-    - Backend
-    - Mobile Developer
-    - Game Developer
-    - Web Developer
+    - Frontend Development
+    - Backend Development
+    - Mobile Development
+    - Game Development
+    - Web Development
 
 #### Question 6
 Differentiate between Statically typed and Dynamically typed programming languages and give examples of languages that fall under each category
