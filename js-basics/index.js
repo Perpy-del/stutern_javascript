@@ -10,7 +10,8 @@ console.log(multiply(12, 5));
 
 // Second Task
 
-/* Create variables for your first name, last name, Stutern track, skills, favourite color, year of your country’s independence. */
+/* Create variables for your first name, last name, Stutern track,
+ skills, favourite color, year of your country’s independence. */
 
 // Variable for first name called lastName.
 const firstName = "Perpetual";
