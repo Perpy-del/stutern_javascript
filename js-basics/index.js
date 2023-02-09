@@ -3,12 +3,13 @@ function multiply(x, y) {
     return x * y;
 }
 
-/* Call the function to a console to multiply any two numbers of your choice and log the answer to the console. */
+/* Call the function to a console to multiply any two numbers of your choice 
+and log the answer to the console. */
 
 console.log(multiply(12, 5));
 
 
-// Second Task
+// SECOND TASK
 
 /* Create variables for your first name, last name, Stutern track,
  skills, favourite color, year of your country’s independence. */
