@@ -15,6 +15,7 @@ JavaScript was originally designed to run only in browsers through a JavaScript 
 Name 5 things Javascript can do.
 
 Answer:
+    
     - It can be used to build robust web applications
     
     - It can be used for client side validation (authentication and authorization).
