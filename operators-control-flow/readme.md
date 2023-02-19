@@ -9,6 +9,7 @@ The symbols are: =, +=, -=, *=, /= and %=.
 
 *Example1:*
 `let firstName = "Perpetual";`  // This assigns the string Perpetual to the variable firstName.
+
 *Example2:*
 `let num = 10;`  // This assigns the number 10 to the variable num.
 
