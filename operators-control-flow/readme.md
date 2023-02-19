@@ -90,3 +90,21 @@ let x = 5 | 1; // 5 = 0101; 1 = 0100
 console.log(x); 
 ```
 // This returns the number 5 to the console as the Bitwise OR () returns 1 if one of the corresponding bits of the operands is 1.
+
+#### Task 3: The question and the solution can be found in the file 'index.js'.
+
+#### Task 4: What is the result when the following program is executed?
+
+```javascript
+for (let i = 1; i < 20; i += 7) {
+    console.log(i);
+}
+```
+
+This function returns the result;
+1
+8
+15
+
+This is because for every value of i starting from the value 1 that is less than 20, the program adds the number 7 and returns it to the variable i.
+
