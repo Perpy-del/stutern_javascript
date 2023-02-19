@@ -100,7 +100,7 @@ let pwr;
 let firstValue;
 function nearestPowerOf2(num) {
     for (let i = 0; i < num; i++) {
-        // finding the power of 2 raised to the number
+        // finding the power of 2 raised to the a number close to the number given.
         pwr = 2 ** i;
         if (pwr < num) {
         // Getting the result of the smaller value and assigning it to the variable firstValue;
