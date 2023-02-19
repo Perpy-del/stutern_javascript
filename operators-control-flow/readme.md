@@ -7,12 +7,10 @@
 -   Arithmetic Operators - used to assign values to variables.
 The symbols are: =, +=, -=, *=, /= and %=.
 
-*Example:*
+*Example1:*
 `let firstName = "Perpetual";`  // This assigns the string Perpetual to the variable firstName.
-
-`let num = 10;` 
-
-This assigns the number 10 to the variable num.
+*Example2:*
+`let num = 10;`  // This assigns the number 10 to the variable num.
 
 
 -   Assignment Operators - used to perform primary arithmetic operations.
