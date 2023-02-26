@@ -45,4 +45,4 @@ const presidentialCandidates = {
 Using any of the enumeration methods taught in class (for…in  or for..of), log out each of the presidential candidates in this format:
 	’Omoyele Sowore is the presidential candidate of AAC’
 
-## *Solution files are found in the file [index.js](./index.js)*
+## *Solutions to the tasks are found in the file [index.js](./index.js)*
