@@ -2,7 +2,7 @@
 
 This is an assignment to give a better understanding of the concept of JavaScript arrays & functions and how they are applied in use cases.
 
-## *The solution to task 1 is here in the below in this README file while the rest can be found in the [index.js](./index.js) file.*
+## *Please find the solution to task 1 below in this README file while the rest can be found in the [index.js](./index.js) file.*
 
 ### Task 1:
 What are the differences between mutating array methods and non-mutation array methods in JavaScript? List 5 array methods that fall under each of them.
