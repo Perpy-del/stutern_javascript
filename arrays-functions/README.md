@@ -14,12 +14,10 @@ Non-mutating array methods on the other hand, are methods that when applied to a
 
 Array methods that fall under each category are:
 
-| Mutating Array Methods | Mutating Array Methods |
+| Mutating Array Methods | Non-Mutating Array Methods |
 | ---------------------- | ---------------------- |
 | ` array.unshift `
-This is used to add an item to the end of the array.
-let array = [1, 2, 3, 4, 5];
-array.push(6); // [1, 2, 3, 4, 5, 6]; | ` array.concat() `
+This is used to add an item to the end of the array. | ` array.concat() `
 This is a non-mutating method used to add item to the end of the array.
 const array = [1, 2, 3, 4, 5];
 const array1 = array.concat(6); // [1, 2, 3, 4, 5, 6]; |
