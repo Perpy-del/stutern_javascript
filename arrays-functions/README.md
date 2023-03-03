@@ -16,7 +16,11 @@ Array methods that fall under each category are:
 
 | Mutating Array Methods | Non-Mutating Array Methods |
 | ---------------------- | ---------------------- |
-| ` array.unshift ` This is used to add an item to the end of the array. | ` array.concat() ` This is a non-mutating method used to add item to the end of the array. |
+| ` array.push() ` // This is used to add an item to the end of the array. | ` array.concat() ` // This is a non-mutating method used to add item to the end of the array. |
+| ` array.unshift() ` // This is used to addan item to the start of the array. | ` ...array ` // The spread operator is used to add an item to the array from the beginning or the end. |
+| ` array.pop() ` // This is used to remove an item from the end of the array and return the item. | ` array.filter() ` // This is a non-mutating method used to filter through the array. It takes a function that is called over each item in the array where if it returns true then the item is included in the new array. 
+| ` array.shift() ` // This is a method that deletes an item from the beginning of the array and return the deleted item. | ` array.slice() ` // This takes 2 parameters, the first is the starting index where the copy of the array should begin and the second is the ending index where the copy of the array should end, which is not inclusive. It copies the item and return a new array.
+| ` array.splice() ` // This is a metthod that takes two important parameters, the first is the starting index and second being the number of items to be removed. It removes the items indicated. | ` array.map() ` // This method returns a new array containing a transformed copy of the original array depending on the function that is called on each item. It takes a function just like array.filter method.
 
 
 ### Task 2:
