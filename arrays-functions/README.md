@@ -7,6 +7,17 @@ This is an assignment to give a better understanding of the concept of JavaScrip
 ### Task 1:
 What are the differences between mutating array methods and non-mutation array methods in JavaScript? List 5 array methods that fall under each of them.
 
+### Solution to Task 1:
+Methods can either be mutating or non-mutating. Mutating array methods in JavaScript are methods that when applied to an array change the original value(s) or state of the array. 
+
+Non-mutating array methods on the other hand, are methods that when applied to an array do not change the original value(s) or state of the array.
+
+Array methods that fall under each category are:
+
+| Mutating Array Methods | Mutating Array Methods |
+| ---------------------- | ---------------------- |
+| ` 
+
 
 ### Task 2:
 Here is an array of languages: [‘C#’, ‘JavaScript’, ‘Ruby’, ‘PHP’, ‘Python’]. Perform this operation on them 
