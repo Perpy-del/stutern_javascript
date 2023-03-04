@@ -57,4 +57,4 @@ e.g.,
      
 *valTimesIndex([5,10,15]) // [0,10,30]*
 
-## *Task 2 to 5 are in this[index.js](./index.js) file.
+## *Task 2 to 5 are in this [index.js](./index.js) file.*
